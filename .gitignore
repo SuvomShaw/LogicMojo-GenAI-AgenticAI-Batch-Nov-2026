@@ -3,3 +3,11 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .DS_Store
+
+# Files created by the notebook examples
+/03-python-tools-and-data/**/sunday_support_tickets.csv
+/03-python-tools-and-data/**/sunday_ticket_report.json
+/03-python-tools-and-data/**/ticket_result.json
+/03-python-tools-and-data/**/broken_report.json
+/03-python-tools-and-data/**/recap_ticket.json
+/03-python-tools-and-data/**/recap_ticket_log.txt
