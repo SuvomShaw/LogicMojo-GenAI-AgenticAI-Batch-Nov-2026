@@ -1,0 +1,12 @@
+{
+  "facts": {
+    "total_tickets": 7,
+    "open_tickets": 5,
+    "unknown_open_waits": 1,
+    "threshold_minutes": 30,
+    "open_at_or_above_threshold": 3,
+    "average_known_open_wait_minutes": 39.25
+  },
+  "summary": "There are 5 open tickets.",
+  "summary_source": "offline"
+}

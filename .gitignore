@@ -11,3 +11,8 @@ __pycache__/
 /03-python-tools-and-data/**/broken_report.json
 /03-python-tools-and-data/**/recap_ticket.json
 /03-python-tools-and-data/**/recap_ticket_log.txt
+
+# Class data and expected outputs
+!/03-python-tools-and-data/data/sunday_support_tickets.csv
+!/03-python-tools-and-data/data/sunday_ticket_report.json
+!/03-python-tools-and-data/data/ticket_result.json

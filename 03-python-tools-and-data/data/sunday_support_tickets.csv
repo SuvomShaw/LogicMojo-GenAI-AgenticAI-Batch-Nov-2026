@@ -1,0 +1,8 @@
+ticket_id,category,status,wait_minutes
+101,login,open,40
+102,billing,closed,12
+103,login,open,65
+104,billing,open,
+105,shipping,open,22
+106,login,closed,11
+107,login,open,30
