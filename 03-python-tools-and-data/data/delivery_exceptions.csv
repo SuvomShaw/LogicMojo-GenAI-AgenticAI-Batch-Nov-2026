@@ -1,0 +1,89 @@
+case_id,order_id,opened_at,updated_at,region,city,carrier,issue_type,status,priority,delay_minutes,customer_message
+7011,ORD-8411,2026-10-06T13:17,2026-10-06T18:57,north,Delhi,ParcelBridge,missing_parcel,resolved,high,150,The parcel has had no scan since it left the sorting centre.
+7027,ORD-8427,2026-10-09T10:44,2026-10-09T14:19,east,Kolkata,ParcelBridge,damaged,resolved,low,25,"The outer box arrived crushed, and one item was broken."
+7033,ORD-8433,2026-10-10T10:31,2026-10-10T18:17,west,Pune,MetroDispatch,address_issue,open,high,90,The driver called about the flat number. I have sent the full address.
+7076,ORD-8476,2026-10-17T11:32,2026-10-17T13:52,south,Hyderabad,SwiftParcel,missing_parcel,in_progress,high,15,"Tracking says delivered, but I cannot find the package."
+7060,ORD-8460,2026-10-14T14:04,2026-10-14T15:52,south,Hyderabad,RoutePost,damaged,resolved,normal,45,The seal was torn when I received the parcel.
+7063,ORD-8463,2026-10-15T10:34,2026-10-15T18:00,east,Kolkata,RoutePost,address_issue,resolved,normal,480,The driver called about the flat number. I have sent the full address.
+7002,ORD-8402,2026-10-05T09:42,2026-10-05T14:42,north,Jaipur,RoutePost,delayed,In Progress,urgent,240,"The delivery window has passed, and tracking still shows the parcel in transit."
+7050,ORD-8450,2026-10-13T09:17,2026-10-13T16:19,south,Chennai,SwiftParcel,delayed,in_progress,urgent,25,I need the order before tomorrow. Can you check the latest scan?
+7035,ORD-8435,2026-10-10T12:46,2026-10-10T16:14,north,Lucknow,RoutePost,damaged,open,normal,360,"The outer box arrived crushed, and one item was broken."
+7052,ORD-8452,2026-10-13T11:38,2026-10-13T16:37,south,Hyderabad,MetroDispatch,delayed,in_progress,normal,45,"The delivery window has passed, and tracking still shows the parcel in transit."
+7045,ORD-8445,2026-10-12T10:53,2026-10-12T15:18,east,Kolkata,RoutePost,damaged,resolved,normal,240,The seal was torn when I received the parcel.
+7007,ORD-8407,2026-10-06T08:25,2026-10-06T09:10,south,Bengaluru,SwiftParcel,wrong_item,open,normal,0,"The invoice is correct, but the item in the box is different."
+7015,ORD-8415,2026-10-07T10:59,2026-10-07T23:29,east,Kolkata,ParcelBridge,wrong_item, In Progress ,high,150,I ordered the blue size medium and received a red size large.
+7062,ORD-8462,2026-10-15T09:28,2026-10-15T17:12,west,Ahmedabad, METRODISPATCH ,address_issue,open,high,15,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7037,ORD-8437,2026-10-11T08:08,2026-10-11T12:18,west,Pune,RoutePost,missing_parcel,resolved,normal,150,The parcel has had no scan since it left the sorting centre.
+7023,ORD-8423,2026-10-08T13:02,2026-10-08T19:17,west,Mumbai,MetroDispatch,delayed,in_progress, HIGH ,150,I need the order before tomorrow. Can you check the latest scan?
+7009,ORD-8409,2026-10-06T10:45,2026-10-06T11:04,east,Guwahati,ParcelBridge,wrong_item,in_progress,high,15,I ordered the blue size medium and received a red size large.
+7010,ORD-8410,2026-10-06T11:34,2026-10-06T12:29, NORTH ,Lucknow,ParcelBridge,address_issue,open,high,120,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7051,ORD-8451,2026-10-13T10:57,2026-10-13T13:14,north,Lucknow,SwiftParcel,damaged,in_progress,normal,60,The seal was torn when I received the parcel.
+7077,ORD-8477,2026-10-17T13:17,2026-10-17T18:03,south,Chennai,MetroDispatch,address_issue,resolved,normal,480,The driver called about the flat number. I have sent the full address.
+7043,ORD-8443,2026-10-12T08:22,2026-10-12T13:38,north,Delhi,MetroDispatch,delayed,in_progress,normal,45,"The delivery window has passed, and tracking still shows the parcel in transit."
+7078,ORD-8478,2026-10-17T14:01,2026-10-17T17:49,east,Kolkata,RoutePost,missing_parcel,open,normal,0,"Tracking says delivered, but I cannot find the package."
+7028,ORD-8428,2026-10-09T11:47,2026-10-09T14:13,east,Guwahati,SwiftParcel,address_issue,in_progress,normal,165,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7038,ORD-8438,2026-10-11T09:28,2026-10-11T14:24,north,Lucknow,SwiftParcel,missing_parcel,resolved,normal,25,The parcel has had no scan since it left the sorting centre.
+7015,ORD-8415,2026-10-07T10:59,2026-10-07T11:29,east,Kolkata,ParcelBridge,wrong_item,resolved,high,0,I ordered the blue size medium and received a red size large.
+7079,ORD-8479,2026-10-18T08:04,2026-10-18T09:23,north,Lucknow,RoutePost,address_issue,resolved,low,480,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7073,ORD-8473,2026-10-17T08:06,2026-10-17T12:23,south,Bengaluru,SwiftParcel,damaged,open,normal,90,"The outer box arrived crushed, and one item was broken."
+7040,ORD-8440,2026-10-11T12:05,2026-10-11T16:57,east,Guwahati,SwiftParcel,delayed,open,normal,120,"The delivery window has passed, and tracking still shows the parcel in transit."
+7032,ORD-8432,2026-10-10T09:43,2026-10-10T12:32,south,Bengaluru,ParcelBridge,missing_parcel,open,low,0,The parcel has had no scan since it left the sorting centre.
+7037,ORD-8437,2026-10-11T08:08,2026-10-12T00:18,west,Pune,RoutePost,missing_parcel,open,urgent,420,The parcel has had no scan since it left the sorting centre.
+7024,ORD-8424,2026-10-08T14:25,2026-10-08T15:30,west,Mumbai,SwiftParcel,delayed,resolved,high,480,The delivery estimate changed twice. Is the parcel still on its way?
+7031,ORD-8431,2026-10-10T08:31,2026-10-10T10:02,south,Hyderabad,RoutePost,wrong_item,in_progress,normal,180,"The invoice is correct, but the item in the box is different."
+7014,ORD-8414,2026-10-07T09:27,2026-10-07T13:54,north,Jaipur,SwiftParcel,address_issue,resolved,normal,90,The driver called about the flat number. I have sent the full address.
+7003,ORD-8403,2026-10-05T10:45,2026-10-05T12:34,north,Delhi,SwiftParcel,delayed,open,normal,,"The delivery window has passed, and tracking still shows the parcel in transit."
+7060,ORD-8460,2026-10-14T14:04,2026-10-15T03:52,south,Hyderabad,RoutePost,damaged,in-progress,normal,120,The seal was torn when I received the parcel.
+7072,ORD-8472,2026-10-16T14:00,2026-10-16T14:24,north,Jaipur,ParcelBridge,delayed,resolved,low,360,"The delivery window has passed, and tracking still shows the parcel in transit."
+7066,ORD-8466,2026-10-15T14:13,2026-10-15T15:06,west,Mumbai,SwiftParcel,missing_parcel,resolved,high,150,"Tracking says delivered, but I cannot find the package."
+7025,ORD-8425,2026-10-09T08:35,2026-10-09T09:43,east,Bhubaneswar,RoutePost,missing_parcel,in_progress,normal,120,The parcel has had no scan since it left the sorting centre.
+7058,ORD-8458,2026-10-14T11:37,2026-10-14T12:03,east,Bhubaneswar,MetroDispatch,delayed,open,urgent,180,"The delivery window has passed, and tracking still shows the parcel in transit."
+7024,ORD-8424,2026-10-08T14:25,2026-10-09T03:30,west,Mumbai,SwiftParcel,delayed,resolved,high,60,The delivery estimate changed twice. Is the parcel still on its way?
+7069,ORD-8469,2026-10-16T10:29,2026-10-16T15:45,north,Delhi,MetroDispatch,damaged,open,normal,45,"The outer box arrived crushed, and one item was broken."
+7048,ORD-8448,2026-10-12T14:11,2026-10-12T22:19,west,Pune,RoutePost,missing_parcel,open,normal,60,"Tracking says delivered, but I cannot find the package."
+7075,ORD-8475,2026-10-17T10:44,2026-10-17T14:19,west,Ahmedabad,RoutePost,damaged,resolved,high,45,"The outer box arrived crushed, and one item was broken."
+7019,ORD-8419,2026-10-08T08:18,2026-10-08T08:46,east,Kolkata,MetroDispatch, ADDRESS_ISSUE ,open,normal,180,The driver called about the flat number. I have sent the full address.
+7018,ORD-8418,2026-10-07T13:58,2026-10-07T14:41,west,Pune,RoutePost,missing_parcel,in_progress,normal,45,The parcel has had no scan since it left the sorting centre.
+7005,ORD-8405,2026-10-05T12:50,2026-10-05T13:06,east,Kolkata,ParcelBridge,missing_parcel,open,urgent,pending sync,"Tracking says delivered, but I cannot find the package."
+7054,ORD-8454,2026-10-13T14:25,2026-10-13T15:21,east,Guwahati,MetroDispatch,damaged,open,normal,15,The seal was torn when I received the parcel.
+7068,ORD-8468,2026-10-16T09:26,2026-10-16T13:27,east,Bhubaneswar,RoutePost,wrong_item,resolved,low,120,"The invoice is correct, but the item in the box is different."
+7080,ORD-8480,2026-10-18T09:33,2026-10-18T16:36,south,Chennai,ParcelBridge,delayed,resolved,urgent,480,I need the order before tomorrow. Can you check the latest scan?
+7044,ORD-8444,2026-10-12T09:29,2026-10-12T14:38,west,Ahmedabad,SwiftParcel,delayed,resolved,low,360,The delivery estimate changed twice. Is the parcel still on its way?
+7064,ORD-8464,2026-10-15T11:34,2026-10-15T14:23,north,Lucknow,RoutePost,delayed,open,high,240,The delivery estimate changed twice. Is the parcel still on its way?
+7065,ORD-8465,2026-10-15T12:54,2026-10-15T16:54,west,Pune,ParcelBridge,missing_parcel,in_progress,normal,150,"Tracking says delivered, but I cannot find the package."
+7042,ORD-8442,2026-10-11T14:21,2026-10-11T17:38,south,Hyderabad,SwiftParcel,delayed,in_progress,low,-12,The delivery estimate changed twice. Is the parcel still on its way?
+7021,ORD-8421,2026-10-08T10:38,2026-10-08T18:10,north,Delhi,MetroDispatch,address_issue,open,normal,150,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7026,ORD-8426,2026-10-09T09:49,2026-10-09T12:51,north,Jaipur,ParcelBridge,missing_parcel,open,normal,-12,The parcel has had no scan since it left the sorting centre.
+7004,ORD-8404,2026-10-05T11:55,2026-10-05T18:22,south,Chennai,MetroDispatch,address_issue,open,normal,0,The driver called about the flat number. I have sent the full address.
+7017,ORD-8417,2026-10-07T12:49,2026-10-07T16:05,south,Hyderabad,MetroDispatch,damaged,resolved,normal,45,The seal was torn when I received the parcel.
+7049,ORD-8449,2026-10-13T08:05,2026-10-13T22:46,south,Hyderabad,ParcelBridge,damaged,resolved,urgent,0,The seal was torn when I received the parcel.
+7061,ORD-8461,2026-10-15T08:05,2026-10-15T13:39,south,Hyderabad,RoutePost,damaged,resolved,low,45,"The outer box arrived crushed, and one item was broken."
+7008,ORD-8408,2026-10-06T09:11,2026-10-06T15:23,north,Lucknow,MetroDispatch,delayed,open,normal,360,"The delivery window has passed, and tracking still shows the parcel in transit."
+7049,ORD-8449,2026-10-13T08:05,2026-10-13T10:46,south,Hyderabad,ParcelBridge,damaged,resolved,urgent,240,The seal was torn when I received the parcel.
+7013,ORD-8413,2026-10-07T08:08,2026-10-07T10:27,south,Hyderabad,RoutePost,delayed,in_progress,normal,unknown,I need the order before tomorrow. Can you check the latest scan?
+7053,ORD-8453,2026-10-13T13:00,2026-10-13T19:01,west,Ahmedabad,MetroDispatch,delayed,in_progress,normal,0,I need the order before tomorrow. Can you check the latest scan?
+7041,ORD-8441,2026-10-11T13:17,2026-10-11T20:10,east,Kolkata,SwiftParcel,delayed,open,low,225,I need the order before tomorrow. Can you check the latest scan?
+7067,ORD-8467,2026-10-16T08:28,2026-10-16T13:35,south,Hyderabad,SwiftParcel,missing_parcel,resolved,high,25,The parcel has had no scan since it left the sorting centre.
+7071,ORD-8471,2026-10-16T12:44,2026-10-16T18:08,north,Delhi,SwiftParcel,delayed,resolved,normal,180,The delivery estimate changed twice. Is the parcel still on its way?
+7046,ORD-8446,2026-10-12T12:01,2026-10-12T13:46,east,Bhubaneswar,ParcelBridge,delayed,open,high,480,I need the order before tomorrow. Can you check the latest scan?
+7070,ORD-8470,2026-10-16T12:04,2026-10-16T14:54,south,Hyderabad,SwiftParcel,address_issue,in_progress,high,150,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7029,ORD-8429,2026-10-09T12:50,2026-10-09T17:27,west,Pune,MetroDispatch,delayed,in_progress,normal,360,"The delivery window has passed, and tracking still shows the parcel in transit."
+7036,ORD-8436,2026-10-10T14:29,2026-10-10T16:09,east,Kolkata,SwiftParcel,delayed,resolved,normal,205,"The delivery window has passed, and tracking still shows the parcel in transit."
+7055,ORD-8455,2026-10-14T08:13,2026-10-14T12:58,north,Jaipur,ParcelBridge,delayed,resolved,high,90,"The delivery window has passed, and tracking still shows the parcel in transit."
+7008,ORD-8408,2026-10-06T09:11,2026-10-07T03:23,north,Lucknow,MetroDispatch,delayed,RESOLVED,normal,390,"The delivery window has passed, and tracking still shows the parcel in transit."
+7072,ORD-8472,2026-10-16T14:00,2026-10-17T02:24,north,Jaipur,ParcelBridge,delayed,open,low,unknown,"The delivery window has passed, and tracking still shows the parcel in transit."
+7047,ORD-8447,2026-10-12T13:05,2026-10-12T16:14,east,Guwahati,SwiftParcel,address_issue, RESOLVED ,normal,145,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7057,ORD-8457,2026-10-14T10:59,2026-10-14T18:03,north,Lucknow,SwiftParcel,delayed,resolved,normal,-12,I need the order before tomorrow. Can you check the latest scan?
+7020,ORD-8420,2026-10-08T09:49,2026-10-08T12:59,south,Bengaluru,RoutePost,address_issue,resolved,normal,150,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7080,ORD-8480,2026-10-18T09:33,2026-10-19T04:36,south,Chennai,ParcelBridge,delayed,resolved,normal,180,I need the order before tomorrow. Can you check the latest scan?
+7016,ORD-8416,2026-10-07T12:02,2026-10-07T15:30,north,Jaipur,SwiftParcel,delayed,open,normal,480,I need the order before tomorrow. Can you check the latest scan?
+7059,ORD-8459,2026-10-14T12:49,2026-10-14T19:47,north,Delhi,RoutePost,delayed,resolved,normal,15,"The delivery window has passed, and tracking still shows the parcel in transit."
+7001,ORD-8401,2026-10-05T08:25,2026-10-05T08:46,north,Delhi,MetroDispatch,delayed, OPEN ,high,120,"The delivery window has passed, and tracking still shows the parcel in transit."
+7039,ORD-8439,2026-10-11T10:30,2026-10-11T18:48,south,Hyderabad,RoutePost,wrong_item,resolved,normal,240,I ordered the blue size medium and received a red size large.
+7034,ORD-8434,2026-10-10T11:59,2026-10-10T13:02,north,Jaipur,RoutePost,delayed,resolved,normal,25,I need the order before tomorrow. Can you check the latest scan?
+7012,ORD-8412,2026-10-06T13:53,2026-10-06T21:39,north,Delhi,RoutePost,address_issue,resolved,high,45,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7056,ORD-8456,2026-10-14T09:23,2026-10-14T16:22,west,Ahmedabad,MetroDispatch,address_issue,open,normal,60,"Tracking shows ""address incomplete"". Please confirm the delivery instructions."
+7006,ORD-8406,2026-10-05T14:08,2026-10-05T18:20,west,Pune,RoutePost,damaged,in-progress,high,-25,"The outer box arrived crushed, and one item was broken."
+7022,ORD-8422,2026-10-08T11:47,2026-10-08T18:49,north,Jaipur,ParcelBridge,missing_parcel,in_progress,normal,60,The parcel has had no scan since it left the sorting centre.
+7030,ORD-8430,2026-10-09T14:00,2026-10-09T20:52,east,Bhubaneswar,ParcelBridge,delayed,in_progress,low,25,I need the order before tomorrow. Can you check the latest scan?
+7074,ORD-8474,2026-10-17T09:24,2026-10-17T16:19,south,Chennai,SwiftParcel,damaged,in_progress,normal,pending sync,"The outer box arrived crushed, and one item was broken."
